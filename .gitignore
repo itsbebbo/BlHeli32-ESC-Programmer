@@ -1,0 +1,19 @@
+# PlatformIO build output and downloaded libraries
+.pio/
+
+# VS Code (keep shared recommendations)
+.vscode/*
+!.vscode/extensions.json
+
+# Editor / OS clutter
+*.swp
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Google Drive sync artefacts
+.tmp.drivedownload/
+.tmp.driveupload/
+*.gdoc
+*.gsheet
